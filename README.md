@@ -10,3 +10,4 @@ INTEGRANTES:
 *Sergio
 *Camila
 *Gabriela
+*Kevin - recien agregado
