@@ -16,3 +16,6 @@ INTEGRANTES:
 Lider del proyecto
 encargado de hacer merge
 * Suarez
+
+---------------
+Se agrego como colaboradora a Giron-Rosa
