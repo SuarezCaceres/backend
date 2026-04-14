@@ -11,3 +11,8 @@ INTEGRANTES:
 *Camila
 *Gabriela
 *Kevin - recien agregado
+
+---------------
+Lider del proyecto
+encargado de hacer merge
+* Suarez
